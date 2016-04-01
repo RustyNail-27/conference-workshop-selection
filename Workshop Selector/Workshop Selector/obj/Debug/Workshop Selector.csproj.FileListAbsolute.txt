@@ -1,0 +1,9 @@
+c:\users\russ\documents\visual studio 2013\Projects\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe.config
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csprojResolveAssemblyReference.cache
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Form1.resources
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Properties.Resources.resources
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.GenerateResource.Cache
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.exe
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.pdb
